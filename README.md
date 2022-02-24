@@ -51,23 +51,3 @@ Images provider. Add credentials to `.env` file.
 REACT_APP_PIXABAY_KEY="your-key"
 ```
 
-
-## Join us on Discord
-
-<p>
-    <a href="https://discord.gg/HqyXEhkXNZ">
-        <img src="https://discordapp.com/api/guilds/898955692491309126/widget.png?style=banner2" alt="Discord Banner 2"/>
-    </a>
-</p>
-
-## Contribution
-
-Feel free to contribute by opening issues with any questions, bug reports or feature requests.
-
-## Author
-
-Created and maintained by Dany Boza ([db@backium.co](https://twitter.com/xorbmoon)).
-
-## License
-
-[MIT](LICENSE)
